@@ -47,7 +47,7 @@ Practise trading with **$10,000 of virtual money**, with nothing real at risk. B
 
 <p align="center">
   <a href="https://github.com/samaunmahmud/CashMatrix">
-    <img src="assets/cashmatrix-hero.png" alt="CashMatrix on desktop and phone" width="100%" />
+    <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/cashmatrix-hero.png" alt="CashMatrix on desktop and phone" width="100%" />
   </a>
 </p>
 
