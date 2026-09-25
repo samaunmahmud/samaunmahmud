@@ -9,7 +9,7 @@ Currently, I’m a **Computer Science (Artificial Intelligence)** student at **B
 | **Focus Areas** | AI & Machine Learning, Algorithms, Data Analysis, Software Development |
 | **Soft Skills** | Teamwork, Time Management, Problem-Solving, Articulate Communication |
 
-### **🌟 Featured Project**
+### **🌟 Featured Projects**
 
 <h3 align="center">📈 <a href="https://github.com/samaunmahmud/Meridian">Meridian</a>: a paper-trading platform for stocks &amp; crypto</h3>
 
@@ -39,6 +39,38 @@ Practise trading with **$10,000 of virtual money**, with nothing real at risk. B
 
 <p align="center">
   <a href="https://github.com/samaunmahmud/Meridian"><b>View the code →</b></a>
+</p>
+
+<br>
+
+<h3 align="center">💷 <a href="https://github.com/samaunmahmud/CashMatrix">CashMatrix</a>: a personal finance tracker for your money, bills &amp; budgets</h3>
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/CashMatrix">
+    <img src="assets/cashmatrix-hero.png" alt="CashMatrix on desktop and phone" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Plaid-111111?style=flat-square&logoColor=white" alt="Plaid" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+Link your bank and see **every pound in one place**: where your money goes, what's due next, and when you're close to your budget. Built end to end: a Spring Boot API, a React front end that works on phones and installs to the Home Screen, and Docker for the database and deployment.
+
+- 🏦 **Open banking:** UK bank connections through Plaid, up to two years of history on the first import, and a background sync every four hours
+- 📊 **Where your money goes:** balance after card debt, spending by category or retailer, and month-by-month trends against last month
+- 🔁 **Subscriptions found for you:** weekly, monthly and yearly charges spotted in your transactions and added to your calendar in one tap
+- 📅 **Budgets & payment calendar:** monthly limits with warnings at 80% and when you go over, plus bills and tasks with a reminder before each one
+- 🔐 **Secure by design:** JWT sessions, BCrypt passwords, passkey login with fingerprint or face (WebAuthn), and alerts in the app, by email and by Web Push
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/CashMatrix"><b>View the code →</b></a>
 </p>
 
 ---
