@@ -73,6 +73,38 @@ Link your bank and see **every pound in one place**: where your money goes, what
   <a href="https://github.com/samaunmahmud/CashMatrix"><b>View the code →</b></a>
 </p>
 
+<br>
+
+<h3 align="center">🛍️ <a href="https://github.com/samaunmahmud/Pacific">Pacific</a>: a multi-seller marketplace where every product has one page</h3>
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/Pacific">
+    <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/pacific-hero.png" alt="Pacific on desktop and phone" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+</p>
+
+Shop **dozens of independent stores in one place**: every product has a single page, however many stores sell it, and the best offer wins the buy box. Built end to end: a Spring Boot API, and a React storefront with Seller Central for stores and a console for admins.
+
+- 🛒 **Many sellers, one page:** stores list their own products or add an offer to an existing one (new or used), the buy box moves when the winner sells out, and products come in colours and sizes
+- 🔎 **Find it fast:** word-by-word search ranked by best match with suggestions as you type, filters, "Frequently bought together", "Buy it again", and 2,000+ demo products from 20 stores
+- 💳 **A real checkout:** card payments with Stripe (webhooks and refunds) or pay on delivery, standard or express delivery dates per seller, Lightning Deals, coupons and promo codes, and "Deliver to" with live UK postcode lookup
+- 🏪 **Seller Central:** product photo galleries, orders with tracking, returns and refunds, earnings after commission, promotions, and private messages with buyers
+- 🔐 **Production-minded:** JWT sessions, email verification, password reset, rate-limited logins, Flyway migrations, 180+ backend tests and end-to-end browser checks
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/Pacific"><b>View the code →</b></a>
+</p>
+
 ---
 
 ### **🚀 What I’m up to:**
