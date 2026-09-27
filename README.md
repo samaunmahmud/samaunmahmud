@@ -79,7 +79,10 @@ Link your bank and see **every pound in one place**: where your money goes, what
 
 <p align="center">
   <a href="https://github.com/samaunmahmud/Pacific">
-    <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/pacific-hero.png" alt="Pacific on desktop and phone" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/pacific-hero-dark.png" />
+      <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/pacific-hero.png" alt="Pacific on desktop and phone" width="100%" />
+    </picture>
   </a>
 </p>
 
@@ -99,6 +102,7 @@ Shop **dozens of independent stores in one place**: every product has a single p
 - 🔎 **Find it fast:** word-by-word search ranked by best match with suggestions as you type, filters, "Frequently bought together", "Buy it again", and 2,000+ demo products from 20 stores
 - 💳 **A real checkout:** card payments with Stripe (webhooks and refunds) or pay on delivery, standard or express delivery dates per seller, Lightning Deals, coupons and promo codes, and "Deliver to" with live UK postcode lookup
 - 🏪 **Seller Central:** product photo galleries, orders with tracking, returns and refunds, earnings after commission, promotions, and private messages with buyers
+- 🌗 **Light and dark mode:** follows your device or switches with one tap, set before the page draws so there's no white flash, across the storefront, Seller Central and admin
 - 🔐 **Production-minded:** JWT sessions, email verification, password reset, rate-limited logins, Flyway migrations, 180+ backend tests and end-to-end browser checks
 
 <p align="center">
