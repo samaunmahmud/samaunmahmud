@@ -70,7 +70,10 @@ Link your bank and see **every pound in one place**: where your money goes, what
 - 🔐 **Secure by design:** JWT sessions, BCrypt passwords, passkey login with fingerprint or face (WebAuthn), and alerts in the app, by email and by Web Push
 
 <p align="center">
-  <a href="https://github.com/samaunmahmud/CashMatrix"><b>View the code →</b></a>
+  <a href="https://cashmatrix-teal.vercel.app"><b>Try the live demo →</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/samaunmahmud/CashMatrix"><b>View the code →</b></a><br>
+  <sub>No sign-up needed. The free server can take up to a minute to wake up.</sub>
 </p>
 
 <br>
