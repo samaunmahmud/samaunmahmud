@@ -11,6 +11,38 @@ Currently, I’m a **Computer Science (Artificial Intelligence)** student at **B
 
 ### **🌟 Featured Projects**
 
+<h3 align="center">🏛️ <a href="https://github.com/samaunmahmud/zenith">Zenith</a>: an AI investment committee you can audit</h3>
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/zenith">
+    <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/zenith-hero.png" alt="Zenith on desktop and phone" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA_Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Nemotron" />
+  <img src="https://img.shields.io/badge/Nebius_Token_Factory-0A0A0A?style=flat-square" alt="Nebius Token Factory" />
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+Type a stock and **three AI analysts argue it out**: Fundamentals, Technicals and Risk. A chair running NVIDIA Nemotron Ultra calls BUY, HOLD or SELL and puts the dissent on the record. Built for the **Nebius x NVIDIA Global AI Hackathon**: a multi-agent Spring Boot backend on Nebius Token Factory, with a React front end that shows every step.
+
+- 🧮 **LLMs interpret, code calculates:** every figure (RSI, MACD, volatility, beta, P/E) is computed in Java, and any number an agent cites that isn't in its input is caught and sent back
+- 🧠 **Right model for each job:** Nemotron Nano, Super and Ultra split the work, about **3x cheaper** than sending everything to the biggest model, with a live cost readout per call
+- 🧾 **Auditable by design:** a SHA-256 receipt of what the committee saw, a downloadable memo, and every call scored against the S&P 500 at 7, 30 and 90 days
+- ⚡ **Fast and parallel:** analysts run on Java virtual threads and stream to the browser over Server-Sent Events, about 24 seconds per committee
+- 🔐 **Production-minded:** a hard spending cap, per-visitor rate limits, a strict Content Security Policy, CodeQL and 190+ tests in CI
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/zenith"><b>View the code →</b></a>
+</p>
+
+<br>
+
 <h3 align="center">📈 <a href="https://github.com/samaunmahmud/Meridian">Meridian</a>: a paper-trading platform for stocks &amp; crypto</h3>
 
 <p align="center">
