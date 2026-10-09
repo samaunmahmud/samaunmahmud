@@ -43,6 +43,44 @@ Type a stock and **three AI analysts argue it out**: Fundamentals, Technicals an
 
 <br>
 
+<h3 align="center">🎬 <a href="https://github.com/samaunmahmud/cinescout">CineScout</a>: scout real filming locations from a script</h3>
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/cinescout">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/cinescout-hero-dark.png" />
+      <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/cinescout-hero.png" alt="CineScout on desktop and phone" width="100%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM watsonx" />
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+Paste a screenplay and **CineScout finds real places to shoot it**: IBM watsonx reads each scene for the location it needs, grounded web search finds real venues, and each one gets a fit score. It then plans the shoot around them: light and weather on the day, outreach to the owners, a schedule, a call sheet and permits.
+
+- 🎯 **The model judges, code scores:** watsonx gives a verdict per requirement and Java turns it into a 0-100 fit score, which took a live run from nearly every venue at 60 to a spread of 76 to 1
+- ☀️ **Ready for the shoot day:** golden hour and sun direction computed locally, weather with a fallback provider, noise risk, a unit base for the trucks and drive times between venues
+- 📅 **From shortlist to call sheet:** holds and clashes, AI-drafted outreach with follow-ups, budget, shot list, permit dates and a call sheet the crew opens from a link
+- ⚡ **Reactive where it counts:** Spring WebFlux calls the model, search and map services at once, with retry, circuit breakers and rate pacing on every external call
+- 🔐 **Production-minded:** HttpOnly session cookies, role-based crew access, an SSRF guard, a strict Content Security Policy and 1,100+ tests (JUnit, Testcontainers, Vitest) in CI
+
+<p align="center">
+  <a href="https://cinescout-4zjm.onrender.com"><b>Try the live demo →</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/samaunmahmud/cinescout"><b>View the code →</b></a><br>
+  <sub>Make an account in a few seconds. The free server can take up to a minute to wake up.</sub>
+</p>
+
+<br>
+
 <h3 align="center">📈 <a href="https://github.com/samaunmahmud/Meridian">Meridian</a>: a paper-trading platform for stocks &amp; crypto</h3>
 
 <p align="center">
