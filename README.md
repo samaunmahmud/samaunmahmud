@@ -83,9 +83,11 @@ Paste a screenplay and **CineScout finds real places to shoot it**: IBM watsonx 
 
 <h3 align="center">📈 <a href="https://github.com/samaunmahmud/Meridian">Meridian</a>: a paper-trading platform for stocks &amp; crypto</h3>
 
+<p align="center"><a href="https://github.com/samaunmahmud/Meridian/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/status-complete_·_v1.0.0-0666eb?style=flat-square" alt="Status: complete, v1.0.0" /></a></p>
+
 <p align="center">
   <a href="https://github.com/samaunmahmud/Meridian">
-    <img src="https://raw.githubusercontent.com/samaunmahmud/Meridian/main/docs/screenshots/hero.png" alt="Meridian on desktop and phone" width="100%" />
+    <img src="https://raw.githubusercontent.com/samaunmahmud/Meridian/main/docs/screenshots/hero.png" alt="Meridian on desktop and phone, in dark and light" width="100%" />
   </a>
 </p>
 
@@ -99,13 +101,14 @@ Paste a screenplay and **CineScout finds real places to shoot it**: IBM watsonx 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-Practise trading with **$10,000 of virtual money**, with nothing real at risk. Built end to end: a Spring Boot API, a React front end in the style of a modern banking app, and a Docker setup that runs it all.
+Practise trading with **$10,000 of virtual money**, with nothing real at risk. Built end to end: a Spring Boot API, a Revolut-style React front end in dark and light, and a Docker setup that runs it all.
 
 - ⚡ **Live markets:** prices pushed to the browser over WebSockets, daily top movers, 1D–All charts with line and candlestick views
-- 🧾 **Real order types:** market, limit and stop-loss orders, recurring buys, and NYSE trading hours (orders placed while the market is shut wait for the open)
-- 💱 **Multi-currency:** USD, EUR and GBP wallets, currency exchange, and orders paid from any wallet
+- 🧾 **Real order types:** market, limit, stop-loss and trailing-stop orders, recurring buys, and NYSE trading hours (orders placed while the market is shut wait for the open)
+- 💱 **Multi-currency:** USD, EUR and GBP wallets at ECB exchange rates, dividends, and orders paid from any wallet
+- 📊 **Honest performance:** time-weighted return against the S&amp;P 500 or any ticker, target allocations with suggested rebalancing trades
 - 🔐 **Secure by design:** HttpOnly cookie sessions, CSRF protection, rate-limited logins, password reset and email verification
-- 🛠️ **Production-minded:** Flyway migrations, health checks, backups, load-tested concurrency fixes, CI on every push, WCAG 2.1 AA accessibility checks
+- 🛠️ **Production-minded:** Flyway migrations, health checks, backups, load-tested concurrency fixes (about 830 orders/s), 526 tests in CI, WCAG 2.1 AA accessibility checks
 
 <p align="center">
   <a href="https://github.com/samaunmahmud/Meridian"><b>View the code →</b></a>
