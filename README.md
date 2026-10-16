@@ -11,6 +11,41 @@ Currently, I’m a **Computer Science (Artificial Intelligence)** student at **B
 
 ### **🌟 Featured Projects**
 
+<h3 align="center">🩺 <a href="https://github.com/samaunmahmud/aegle">Aegle</a>: AI triage so the most urgent scan is read first</h3>
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/aegle">
+    <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/aegle-hero.png" alt="Aegle: a hospital reporting worklist with critical cases first, a brain MRI with the AI heatmap on a phone, and a consult between two doctors" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/DICOM-1F6FB2?style=flat-square" alt="DICOM" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+A clinical decision-support platform for **seven hospital departments**: eleven AI models I trained read chest X-rays, brain MRIs, blood smears, tissue slides, colonoscopies, retinal photos, skin lesions, ECGs and EEGs, and **push the urgent cases to the top of the doctor's worklist**. The AI suggests; a clinician signs every finding.
+
+- 🧠 **11 models, honestly tested:** PyTorch transfer learning evaluated on about 20,600 held-out cases from patients the models never saw, calibrated probabilities, and a "shortcut" baseline for every model that got **two of them withdrawn**, including one that scored 100%
+- 🚨 **Triage you can question:** priority = probability × clinical urgency + time waiting, stored with its reason, so every ranking has a "why?"; critical alerts stay until acknowledged
+- 🩻 **A real reading room in the browser:** Grad-CAM heatmaps, zoom, contrast, prior-scan comparison, a dark "Lights off" mode, and DICOM straight from the scanners over mutual TLS
+- 💬 **A colleague one click away:** consults on every page let a junior ask a named consultant about the exact case, linked to the study but never copying the patient's details
+- 🔐 **Built like hospital software:** Postgres row-level security per hospital, encrypted patient identifiers, a SHA-256 hash-chained audit log of every read, TLS everywhere, and 150+ tests in CI
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/aegle"><b>View the code and the full tour →</b></a><br>
+  <sub>Research prototype: not a medical device and not for clinical use.</sub>
+</p>
+
+<br>
+
 <h3 align="center">🏛️ <a href="https://github.com/samaunmahmud/zenith">Zenith</a>: an AI investment committee you can audit</h3>
 
 <p align="center">
