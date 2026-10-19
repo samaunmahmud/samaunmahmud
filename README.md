@@ -11,6 +11,40 @@ Currently, I’m a **Computer Science (Artificial Intelligence)** student at **B
 
 ### **🌟 Featured Projects**
 
+<h3 align="center">🐑 <a href="https://github.com/samaunmahmud/bellwether">Bellwether</a>: know what the weather means for your animals, before it happens</h3>
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/bellwether">
+    <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/bellwether-hero.png" alt="Bellwether: a hill farm's dashboard on a laptop, the morning briefing on a phone, and a dog's record card in the dark theme" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+</p>
+
+Animal health risk forecasts for **UK livestock farms and pet owners**: Bellwether turns the next 14 days of weather into day-by-day risk of heat stress, blowfly strike, newborn lamb chill, liver fluke, ticks and dog heatstroke, **for each livestock group, with the reason in plain English**. Around it sit the records a small farm needs: holding register, medicine book, tasks, documents and the farm's team.
+
+- 🧮 **Rules you can check, not a black box:** a pure TypeScript risk engine with **no machine learning and 100% test coverage**; every level comes from a named threshold, and the reason says which weather caused it ("Peak THI 74 around 3pm: heat stress likely")
+- 🐑 **Risk per group, not per postcode:** blowfly knows when each flock was shorn, lamb chill runs only around lambing, heat stress uses the hourly Temperature-Humidity Index, and each field can have its own map pin
+- 🌅 **A morning briefing:** overdue tasks first, then every Medium or High risk this week with general husbandry checks (a test fails if one ever mentions a dose), on the page and by email at the time each person chooses
+- 📋 **Ready for inspection:** holding register with running head counts, medicine cabinet with expiry and withdrawal dates, treatments, documents, tasks and a team shared by role (Owner, Worker, Viewer)
+- 🛠️ **Production-minded:** GraphQL on Node with Postgres (Prisma) and a Redis cache that falls back when it's down, a test that runs every API operation as another user, an installable offline-ready PWA, and **1,134 tests** in CI
+
+<p align="center">
+  <a href="https://github.com/samaunmahmud/bellwether"><b>View the code and the full tour →</b></a><br>
+  <sub>An awareness tool, not veterinary advice.</sub>
+</p>
+
+<br>
+
 <h3 align="center">🩺 <a href="https://github.com/samaunmahmud/aegle">Aegle</a>: AI triage so the most urgent scan is read first</h3>
 
 <p align="center">
