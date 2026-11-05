@@ -1,6 +1,6 @@
 <h1 align="center">💡 I turn questions ❓ into code 💻, data 📊 into stories 📖, and coffee ☕ into late-night ideas 🌙✨</h1>
 
-<p align="center">🤖 AI builder &nbsp;·&nbsp; 🧠 ML tinkerer &nbsp;·&nbsp; 🚀 Full-stack engineer &nbsp;·&nbsp; 🇬🇧 London &nbsp;·&nbsp; 🇧🇩 from Dhaka</p>
+<p align="center">🤖 AI builder &nbsp;·&nbsp; 🧠 ML tinkerer &nbsp;·&nbsp; 🚀 Full-stack engineer &nbsp;·&nbsp; 🇬🇧 London</p>
 
 I'm a **Computer Science (Artificial Intelligence)** student at **Brunel University London** who builds complete products, from the database to the last pixel: Spring Boot and FastAPI backends, React front ends, models I train myself, and multi-agent AI. Each one ships with Docker, CI and a real test suite.
 
