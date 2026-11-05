@@ -8,7 +8,7 @@ It started in Dhaka with physics and maths puzzles, and **perfect 5/5 GPAs** in 
 
 <p align="center">
   <img src="https://img.shields.io/badge/🩺_11_PyTorch_models_trained-1f2937?style=flat-square" alt="11 PyTorch models trained" />
-  <img src="https://img.shields.io/badge/🏆_Hackathons-NVIDIA_·_PayPal_·_OpenCV-1f2937?style=flat-square" alt="Hackathons: NVIDIA, PayPal, OpenCV" />
+  <img src="https://img.shields.io/badge/🏆_Hackathons-Google_·_NVIDIA_·_PayPal_·_OpenCV-1f2937?style=flat-square" alt="Hackathons: Google, NVIDIA, PayPal, OpenCV" />
   <img src="https://img.shields.io/badge/🧪_1,000%2B_tests_per_flagship_project-1f2937?style=flat-square" alt="1,000+ tests per flagship project" />
 </p>
 
