@@ -1,13 +1,77 @@
 # 💡 I turn questions into code, data into stories, and coffee into late-night ideas.
 
-Currently, I’m a **Computer Science (Artificial Intelligence)** student at **Brunel University London**. My journey started in Dhaka, where I developed a love for solving physics and maths puzzles—eventually achieving **perfect 5/5 GPAs** in both my SSC and HSC. That foundation in logic—moving from laboratory experiments to digital neural networks—is what drives my work in tech today.
+I'm a **Computer Science (Artificial Intelligence)** student at **Brunel University London** who builds complete products, from the database to the last pixel: Spring Boot and FastAPI backends, React front ends, models I train myself, and multi-agent AI. Each one ships with Docker, CI and a real test suite.
+
+It started in Dhaka with physics and maths puzzles, and **perfect 5/5 GPAs** in both my SSC and HSC. That habit never left: in a lab experiment or a neural network, I want to know *why* the answer is what it is. So I build software that shows its reasoning. Every risk, ranking and decision in my projects comes with the reason behind it.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🩺_11_PyTorch_models_trained-1f2937?style=flat-square" alt="11 PyTorch models trained" />
+  <img src="https://img.shields.io/badge/🏆_Hackathons-NVIDIA_·_PayPal_·_OpenCV-1f2937?style=flat-square" alt="Hackathons: NVIDIA, PayPal, OpenCV" />
+  <img src="https://img.shields.io/badge/🧪_1,000%2B_tests_per_flagship_project-1f2937?style=flat-square" alt="1,000+ tests per flagship project" />
+</p>
 
 ### **🛠️ Tech Stack & Skills**
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MVC Pattern](https://img.shields.io/badge/MVC_Pattern-%23000000.svg?style=for-the-badge&logo=architecture&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache_Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)|
-| **Focus Areas** | AI & Machine Learning, Algorithms, Data Analysis, Software Development |
-| **Soft Skills** | Teamwork, Time Management, Problem-Solving, Articulate Communication |
+
+<table>
+  <tr>
+    <td align="center" width="150"><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,py,ts,js,c,html,css,bash&perline=8" alt="Java, Python, TypeScript, JavaScript, C, HTML, CSS, Bash" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,graphql,maven&perline=8" alt="Spring Boot, FastAPI, Node.js, GraphQL, Maven" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=8" alt="React, Vite, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧠 AI &amp; ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&perline=8" alt="PyTorch, OpenCV, scikit-learn" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,prisma&perline=8" alt="PostgreSQL, MySQL, Redis, SQLite, Prisma" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,vercel,git,linux&perline=8" alt="Docker, AWS, GitHub Actions, Nginx, Vercel, Git, Linux" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧪 Testing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vitest,jest&perline=8" alt="Vitest, Jest" />&nbsp;
+      <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+      <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/NVIDIA_Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Nemotron" />
+      <img src="https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM watsonx" />
+      <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square" alt="Amazon Bedrock" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+      <img src="https://img.shields.io/badge/MCP-191919?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+      <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔌 APIs &amp; Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+      <img src="https://img.shields.io/badge/Plaid-111111?style=flat-square" alt="Plaid" />
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/WebAuthn-3423A6?style=flat-square&logo=webauthn&logoColor=white" alt="WebAuthn" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+      <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+    </td>
+  </tr>
+</table>
+
+**🎯 Focus areas:** AI &amp; machine learning · multi-agent systems · full-stack product engineering · algorithms &amp; data structures · data analysis<br>
+**🤝 Soft skills:** clear communication · teamwork · problem-solving · time management
 
 ### **🌟 Featured Projects**
 
@@ -256,28 +320,31 @@ Shop **dozens of independent stores in one place**: every product has a single p
 
 ---
 
-### **🚀 What I’m up to:**
-* 🧠 **Learning:** Diving deep into **Algorithms, Data Structures, and AI** to find the "why" behind the output.
-* 🔬 **Researching:** Drawing on my background as a **Student Researcher** to bridge the gap between theoretical concepts and practical code.
-* ⚡ **Current Challenge:** Ask me about the specific problem I'm trying to solve right now—I’m currently exploring how AI can optimize real-world data analysis.
+### **🚀 What I'm up to**
+* 🔨 **Building:** [Leash](https://github.com/samaunmahmud/leash), spending limits for AI agents enforced through PayPal. Every purchase an agent attempts is checked against a plain-English mandate, then paid, sent to you for approval, or blocked with the reason on record.
+* 👁️ **Competing:** [ReVive](https://github.com/samaunmahmud/revive) for the OpenCV AI Competition 2026: agentic photo restoration that perceives, plans, acts, verifies, and asks a human before it guesses.
+* 🧠 **Learning:** going deeper into **algorithms, data structures and AI** to understand the "why" behind every output, not just the output.
+* 🔬 **Researching:** drawing on my time as a **student researcher** to turn theory into code that works on real data.
 
-### **✨ Beyond the Code:**
-I believe technical skills are only half the battle. I pride myself on **explaining the "tricky stuff"** without the jargon and maintaining a steady hand on **time management**.
+### **✨ Beyond the Code**
+Good code is only half the job. The other half is **explaining the tricky parts without the jargon** and **delivering on time**, and I take both seriously.
 
-**When I’m not at my desk, you’ll find me:**
-* 🎮 **Gaming & Racing:** I love the fast pace of video games and the thrill of racing.
-* 🤝 **Connecting:** I'm always down for hanging out, sharing thoughts, and talking to people.
-* 🏃‍♂️ **Active:** Hitting the trails for a **hike** or **running** to clear my mind for the next sprint.
-* 📖 **Reading & Helping:** I enjoy helping others and reading—usually something that offers a new perspective.
+**Away from the keyboard, you'll find me:**
+* 🏎️ **Gaming & racing:** anything fast-paced, on screen or on track.
+* 🥾 **Hiking & running:** the best way I know to clear my head before the next sprint.
+* 📖 **Reading:** usually something that changes how I see a problem.
+* 🤝 **With people:** hanging out, swapping ideas, and helping friends get unstuck.
 
 ---
 
-### **🤝 Let’s Connect!**
-I’m always keen to collaborate on AI research, smart software, or any project that makes life a little easier. 
+### **🤝 Let's Connect**
+I'm always up for collaborating on AI research, ambitious software, or anything that makes everyday life a little easier.
 
-* ✉️ **Email:** [samaunmahmud9@gmail.com](mailto:samaunmahmud9@gmail.com)
-* 📍 **Location:** Uxbridge, United Kingdom
-* 🗣️ **Languages:** English & Bangla (Fluent)
+<p>
+  <a href="mailto:samaunmahmud9@gmail.com"><img src="https://img.shields.io/badge/Email-samaunmahmud9%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Uxbridge,_UK-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Uxbridge, UK" />
+  <img src="https://img.shields.io/badge/Languages-English_·_Bangla-1f2937?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages: English and Bangla" />
+</p>
 <!--
 **samaunmahmud/samaunmahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
