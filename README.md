@@ -182,7 +182,7 @@ Type a stock and **three AI analysts argue it out**: Fundamentals, Technicals an
 
 <p align="center">
   <a href="https://github.com/samaunmahmud/leash">
-    <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/leash-hero.png" alt="Leash: the ledger with a £500 gift-card purchase blocked because the page hid instructions for the agent, an approval request on a phone, and the walk report suggesting a higher auto-approve limit" width="100%" />
+    <img src="https://raw.githubusercontent.com/samaunmahmud/samaunmahmud/main/assets/leash-hero.png" alt="Leash in light mode: the ledger with a £500 gift-card purchase blocked because the page hid instructions for the agent, the ledger on a phone in dark mode, and an approval request on a phone in light mode" width="100%" />
   </a>
 </p>
 
